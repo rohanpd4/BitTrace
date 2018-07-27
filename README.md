@@ -3,7 +3,7 @@ BitTrace is an android app that lets you calculate Bitcoin in the different curr
 
 It is powered by CoinDesk API.
 
-# #System Requirements:
+## System Requirements:
 1.Android Studio  - above 3.0
 2.Emulator with API atleast 22.(If want to run in the Emulator)
 
