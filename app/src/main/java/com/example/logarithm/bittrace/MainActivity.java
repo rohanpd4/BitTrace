@@ -101,7 +101,6 @@ public class MainActivity extends AppCompatActivity {
                     e.printStackTrace();
                 }
 
-                //Toast.makeText(MainActivity.this, countryArray.get(position), Toast.LENGTH_SHORT).show();
             }
 
             @Override
